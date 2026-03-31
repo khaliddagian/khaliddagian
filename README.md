@@ -11,10 +11,10 @@ Motivated IT and cybersecurity professional seeking an entry-level role in IT su
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md" |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md" |
-| Active Directory Deployment & Administration  | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md" |
-| Security Monitoring with Splunk & Sysmon      | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md" |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md">Active Directory Home Lab</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md">Active Directory Home Lab</a> |
+| Active Directory Deployment & Administration  | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md">Active Directory Home Lab</a> |
+| Security Monitoring with Splunk & Sysmon      | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md">Active Directory Home Lab</a> |
 
 ## Tools
 
