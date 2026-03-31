@@ -11,10 +11,10 @@ Motivated IT and cybersecurity professional seeking an entry-level role in IT su
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Active Directory Home Lab |
-| Network Traffic Monitoring and Attack Detection | Active Directory Home Lab |
-| Active Directory Deployment & Administration  | Active Directory Home Lab |
-| Security Monitoring with Splunk & Sysmon      | Active Directory Home Lab |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md" |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md" |
+| Active Directory Deployment & Administration  | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md" |
+| Security Monitoring with Splunk & Sysmon      | <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md" |
 
 ## Tools
 
@@ -42,7 +42,7 @@ Motivated IT and cybersecurity professional seeking an entry-level role in IT su
 </div>
 
 ## Projects
-
+- <a href="https://github.com/khaliddagian/Active-Directory-Home-Lab/blob/main/README.md">Active Directory Home Lab with Security Monitoring</a>
 ### Active Directory Home Lab with Security Monitoring
 - Designed and deployed a virtualized Active Directory lab environment including a domain controller, Windows 10 endpoint, and Kali Linux attacker system within a segmented 192.168.10.0/24 network.
 - Implemented centralized logging and security monitoring using Splunk, Sysmon, and Universal Forwarders to detect and analyze simulated attack activity generated from a Kali Linux host.
