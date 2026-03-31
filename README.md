@@ -44,5 +44,5 @@ Motivated IT and cybersecurity professional seeking an entry-level role in IT su
 ## Projects
 
 ### Active Directory Home Lab with Security Monitoring
-- Designed and deployed a virtualized Active Directory lab environment including a domain controller, Windows 10 endpoint, and Kali Linux attacker system within a segmented network.
-- Implemented centralized logging and security monitoring using Splunk, Sysmon, and Universal Forwarders to detect and analyze simulated attack activity.
+- Designed and deployed a virtualized Active Directory lab environment including a domain controller, Windows 10 endpoint, and Kali Linux attacker system within a segmented 192.168.10.0/24 network.
+- Implemented centralized logging and security monitoring using Splunk, Sysmon, and Universal Forwarders to detect and analyze simulated attack activity generated from a Kali Linux host.
